@@ -63,7 +63,7 @@ Run LABCHRN1 (this generates a form that summarizes the samples and LCB data tha
 8. Print *.CHR
   ** The lab chronicle sheet should always be printed horizontally. The information won't fit if printed vertically.
 
-Placing forms:
+*Placing forms:*
 1. Form 1 goes in front of each sample being reported
   ** If there is a .P form, place that in front of Form 1 for the sample's initial run.
 2. Form 3 goes behind the QC Summaries divider
