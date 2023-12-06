@@ -1,0 +1,23 @@
+SOP_TOC (if not already set up on the account)
+  \\TOWIN2003S01\DOCS\FORMS\EMAX BROWSER\
+
+Scanner folder for COAs
+  \\TOWIN2003S02\SCANJOBS\CANONVARIO115-PM
+
+Lab Backup (required for manual data backup on some computers that aren't connected to the network - ex: F4, F5, J1, E2)
+  \\TOWIN2003S01\LabBkup\HPCHEM_VOA
+
+MDL folders
+  R:\MDL\MDL [YEAR]\8260\VOA LOD LOQ
+
+ICAL folders
+  R:\CAL\8260\[YEAR]
+
+SAMPREP (also used for generating the daily calibration check for the balances)
+  \\TOWIN2003S01\VOLUME2\SAMPREP
+
+Accessing data/method folder on (most) computers
+  C:\HPCHEM\1\DATA (or METHOD)
+  ** On some computers it's msdchem (F4, F5, E2)
+  ** On J1 it's under MassHunter (it should be pinned to the sidebar)
+  ** On F3 it's under C:\HPCHEM\2\DATA (I think)
