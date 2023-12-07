@@ -1,0 +1,14 @@
+Backing up data
+
+1. Go to Windows Explorer > Neighborhood Network > TOWIN2003S01
+  ** It usually prompts you for your login. Use your login for the computer. 
+  ** If you don't remember your password, give Ronnie a paper with your username and ask him to reset it.
+  ** If you know you typed your password correctly and it still gives you an error, you probably need to restart the computer because the network connection timed out. If you need to do this, I'd recommend doing it before starting your sequence the next day instead of interrupting your current sequence (if you're running samples that day).
+2. Go to Lab Bkup > HPCHEM_VOA > [instrument ID] > [year]
+3. Copy data in the C: drive to the corresponding folders in the backup folder. You *ESPECIALLY* need to back up the Data and Method files because losing the data for those two will cause us the biggest problems. The RR files and sequence files are less of a priority since those can be regenerated provided you have the Data files.
+  ** The Data folders especially can take a while, so do NOT touch the windows when it's copying. 
+  ** This process should be done *AT LEAST* once per week. Highly highly do not recommend waiting longer to do this because the computer's hard drive can corrupt unexpectedly and the data may be unrecoverable.
+
+Extra steps for F4, F5, E2, J1 only:
+
+The computers on those four instruments aren't connected to the network, so you have to manually copy the files to a USB stick and transfer it to a computer that *is* connected to the network drive. It's not exactly difficult, but data transfer can take upwards of an hour depending on how bad the backlog is, so it's important to keep an eye on the USB when doing data transfer because sometimes Bill will unplug it if he needs to copy RR files from the computer. Make sure to label the USB with a sticky note saying DO NOT UNPLUG if you're copying data over. The process is otherwise the same as for the other computers. You can only copy the data with the USB stick; if you try to use the floppy disks, they'll fill up before you even make it through a week of data.
