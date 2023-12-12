@@ -1,0 +1,17 @@
+Running 524.2:
+- Change desorb time on concentrator/autosampler to 4 minutes.
+- Spike 0.5uL BFB for tune check.
+- All standards are the same as 8260 except for the IS/SS (different IS and SS).
+  - I usually label the IS/SS as "IS/SS (524.2)".
+  - IS/SS parent standards are in a box labeled 524.2/624.
+  - Standards needed are 8260, KET-AA, GAS, and CS2. The other 8260 standards aren't in the compound list.
+- Use HCl vials to prepare the QC/ICAL.
+  - Fill HCl vial to the top so there's no headspace, then transfer 25mL to a vial or syringe to spike standards.
+  - HCl vial can be reused *once* as long as the pH = 2 or lower. In my experience, the pH will be 6 if you try to reuse it more than once.
+- Run MRL after L/C instead of rinse.
+  - MRL = LOQ for the folder. Only needed if target list has trihalomethanes (THMs), but I run it anyway in case the client requests it later.
+  - THMs = chloroform, dibromochloromethane, dichlorobromomethane, bromoform
+  - I default to spiking 0.5ppb unless it's a purple folder. If it's a purple folder, spike 1.0ppb.
+  - % recovery for those four compounds should be within 50% of expected value. We don't care about any of the other compounds, which is why we use it as a "rinse" before running the blank.
+- Run closing DCC at the end of the sequence.
+  - Normally projects don't need it, but sometimes they'll suddenly ask for one so just run it in case.
