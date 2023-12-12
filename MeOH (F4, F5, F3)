@@ -13,11 +13,8 @@ Running MeOH:
   - Generate a .CSV file for the weight log before submitting the folder so Bill can process it without needing to make a detour
 - All other procedures are the same as 25mL 8260
 
-F3:
+F3/F4:
 - 15mL water
-
-F4:
-- 5.0mL water (I think the autosampler adds the rest of the volume when autospiking; still a WIP)
 
 F5:
 - 10mL water
