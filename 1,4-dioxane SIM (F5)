@@ -1,3 +1,5 @@
+Make sure to use [method]A for running BFB and [method] for everything else (ex: VOF5J06A for tune check, VOF5J06 for ICAL/QC/samples)
+
 For 25mL:
 - 25mL water
 - 5.0uL 1,4-diox IS/SS (250/25ppm)
