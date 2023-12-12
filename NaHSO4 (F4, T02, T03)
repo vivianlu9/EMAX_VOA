@@ -11,3 +11,25 @@ Running NaHSO4 (sodium bisulfate):
   - If running M/S, try to make sure the M/S weights are as close as possible (swap vials around and relabel the weight log if needed)
   - Generate a .CSV file for the weight log before submitting the folder so Bill can process it without needing to make a detour
 - All other procedures are the same as 25mL 8260
+
+Spiking QC:
+- 5.0uL IS/SS (50ppm)
+- 15mL water (F4, T02)
+- 10mL water (T03?)
+
+1°:
+- 5.0uL 8260 (50/500ppm)
+- 5.0uL KET-AA (250ppm)
+- 1.0uL 4 ADD (250/2500ppm)
+- 1.0uL GAS (250ppm)
+- 1.0uL CS2 (250ppm)
+- 1.0uL FREON (250ppm)
+
+2°:
+- 5.0uL 8260 (50/500ppm)
+- 5.0uL KET-AA (250ppm)
+- 5.0uL 3 ADD (50ppm)
+- 5.0uL 2-butanol (500ppm)
+- 1.0uL GAS (250ppm)
+- 1.0uL CS2 (250ppm)
+- 1.0uL FREON (250ppm)
