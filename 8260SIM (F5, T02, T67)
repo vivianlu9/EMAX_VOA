@@ -7,3 +7,4 @@ For 25mL:
 - To see if a folder is 8260SIM or TCPSIM, check the surrogates.
   - If the folder has d4 or 4BFB as a target surrogate, run as 8260SIM.
   - If the folder has d8 as a target surrogate, run as TCPSIM.
+- If running on T67, need to run LOD/LOQ for every run.
