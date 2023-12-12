@@ -5,7 +5,6 @@ Running 524.2:
   - I usually label the IS/SS as "IS/SS (524.2)".
   - IS/SS parent standards are in a box labeled 524.2/624.
   - Standards needed are 8260, KET-AA, GAS, and CS2. The other 8260 standards aren't in the compound list.
-  - Spike IS/SS (524.2) the same as 8260 IS/SS (5.0uL, 50ppm)
 - Use HCl vials to prepare the QC/ICAL.
   - Fill HCl vial to the top so there's no headspace, then transfer 25mL to a vial or syringe to spike standards.
   - HCl vial can be reused *once* as long as the pH = 2 or lower. In my experience, the pH will be 6 if you try to reuse it more than once.
@@ -16,3 +15,11 @@ Running 524.2:
   - % recovery for those four compounds should be within 50% of expected value. We don't care about any of the other compounds, which is why we use it as a "rinse" before running the blank.
 - Run closing DCC at the end of the sequence.
   - Normally projects don't need it, but sometimes they'll suddenly ask for one so just run it in case.
+
+Spiking 524.2:
+- 25mL HCl water
+- 5.0uL IS/SS (524.2) (50ppm)
+- 5.0uL 8260 (1°, 2°) (50/1250ppm)
+- 5.0 KET-AA (1°, 2°) (250ppm)
+- 1.0uL GAS (1°, 2°) (250ppm)
+- 1.0uL CS2 (1°, 2°) (250ppm) 
