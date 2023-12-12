@@ -1,3 +1,5 @@
+Make sure to use [method]A for running BFB and [method] for everything else (ex: VOF5J06A for tune check, VOF5J06 for ICAL/QC/samples)
+
 For 25mL:
 - 25mL water
 - 2.5uL SIM IS/SS (5.0ppm)
@@ -8,7 +10,6 @@ For 25mL:
   - If the folder has d4 or 4BFB as a target surrogate, run as 8260SIM
   - If the folder has d8 as a target surrogate, run as TCPSIM
 - If running on T67, need to run LOD/LOQ for every run
--Make sure to use [method]A for running BFB and [method] for everything else (ex: VOF5J06A for tune check, VOF5J06 for ICAL/QC/samples)
 
 For 5.0g:
 - Ask Imelda
