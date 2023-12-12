@@ -1,0 +1,27 @@
+Running 25mL 8260:
+- 25mL water
+- 5.0uL IS/SS (50ppm)
+
+1°:
+- 5.0 uL 8260 (50/1250ppm)
+- 5.0uL KET-AA (250ppm)
+- 1.0uL CS2 (250ppm)
+- 1.0uL GAS (250ppm)
+- 1.0uL 4 ADD (250/6250ppm)
+- Optional (usually only spike for LOD/LOQ; only some instruments/analyses have these):
+  - 1.0uL TAA-224 (250/1250ppm)
+  - 1.0uL FREON (250ppm)
+  - 1.0uL FREON114 (250ppm)
+
+2°:
+- 5.0uL 8260 (50/1250ppm)
+- 5.0uL KET-AA (250ppm)
+- 5.0uL 3 ADD (50ppm)
+- 12.5uL 2-butanol (500ppm)
+- 1.0uL CS2 (250ppm)
+- 1.0uL GAS (250ppm)
+- Optional:
+  - 5.0uL TAA (250ppm)
+  - 5.0uL 224-TMP (50ppm)
+  - 1.0uL FREON (250ppm)
+  - 1.0uL FREON114 (250ppm)
