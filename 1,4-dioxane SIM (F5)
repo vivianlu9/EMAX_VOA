@@ -1,15 +1,15 @@
 For 25mL:
 - 25mL water
-- 5.0uL 1,4-diox IS/SS
-- 5.0uL 1,4-diox (1°)
-- 5.0uL 1,4-diox (2°)
+- 5.0uL 1,4-diox IS/SS (250/25ppm)
+- 5.0uL 1,4-diox (1°) (250ppm)
+- 5.0uL 1,4-diox (2°) (250ppm)
 
 For 5.0g:
 - 15mL water in 5.0g NaHSO4 (if samples are preserved)
 - 15mL water (if samples are frozen)
-- 4.0uL 1,4-diox IS/SS
-- 4.0uL 1,4-diox (1°)
-- 4.0uL 1,4-diox (2°)
+- 4.0uL 1,4-diox IS/SS (250/25ppm)
+- 4.0uL 1,4-diox (1°) (250ppm)
+- 4.0uL 1,4-diox (2°) (250ppm)
 - Need to run LOD/LOQ for each run (1.0ppb / 2.0ppb)
   - Spike 0.1uL and 0.2uL respectively (1° or 2° doesn't matter)
 - Add 10mL of water to samples (samples have 5.0mL water already)
