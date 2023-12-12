@@ -2,6 +2,7 @@ Running MeOH:
 - Mostly the same standards as 25mL 8260 *except* for 8260 (1°, 2°) and 4add (1°)
   - Use the 8260 specifically labeled (SOIL); usually in the small tray in the back corner of the standards freezer
   - The concentration for 2-butanol is different for soil vs. water; largely irrelevant unless the folder specifically has 2-butanol as a target
+  - All standards are spiked at the same amounts as regular 25mL 8260
 - Need total of 100uL MeOH in *all* QC/ICAL
   - Spike 100uL of *clean* MeOH in all QC
   - Manually calculate amount of MeOH needed to reach 100uL total in ICAL (usually only have to do this after midpoint level)
