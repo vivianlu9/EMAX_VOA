@@ -5,6 +5,7 @@ Running 524.2:
   - I usually label the IS/SS as "IS/SS (524.2)".
   - IS/SS parent standards are in a box labeled 524.2/624.
   - Standards needed are 8260, KET-AA, GAS, and CS2. The other 8260 standards aren't in the compound list.
+  - Spike IS/SS (524.2) the same as 8260 IS/SS (5.0uL, 50ppm)
 - Use HCl vials to prepare the QC/ICAL.
   - Fill HCl vial to the top so there's no headspace, then transfer 25mL to a vial or syringe to spike standards.
   - HCl vial can be reused *once* as long as the pH = 2 or lower. In my experience, the pH will be 6 if you try to reuse it more than once.
