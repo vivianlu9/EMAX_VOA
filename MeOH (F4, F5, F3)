@@ -15,12 +15,8 @@ Running MeOH:
 
 Spiking MeOH (same for all instruments):
 - 5.0uL IS/SS (50ppm)
-
-F3/F4:
-- 15mL water
-
-F5:
-- 10mL water
+- 15mL water (F3, F4)
+- 10mL water (F5)
 
 1°:
 - 5.0uL 8260 (50/500ppm)
