@@ -1,0 +1,11 @@
+For 25mL (T67, T06):
+- 25mL water
+- 5.0uL IS/SS (same IS/SS you use for 8260)
+- 1.0uL APP IX (1°) (250/2.5/5kppm)
+- 1.0uL Freon (1°) (250ppm)
+- 1.0uL APP IX (2°) (250/2.5/5kppm)
+- 1.0uL Freon (2°) (250ppm)
+- Run QC/ICAL under *current* 8260 method
+
+For 5.0g (T02):
+- Ask Imelda.
