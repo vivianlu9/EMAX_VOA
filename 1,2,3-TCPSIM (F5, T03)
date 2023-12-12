@@ -1,3 +1,5 @@
+Make sure to use [method]A for running BFB and [method] for everything else (ex: VOF5J06A for tune check, VOF5J06 for ICAL/QC/samples)
+
 For 25mL:
 - 25mL water
 - 1.0uL TCPSIM IS/SS (2.5ppm)
@@ -5,3 +7,6 @@ For 25mL:
 - 1.0uL TCPSIM (2°) (2.5ppm)
 - Sometimes the SS fails high in QC so keep an eye on that (aim for 89-112).
 - If SS fails high, rerun the sample. If it fails high again and there's no hits, report original run.
+
+For 5.0g:
+- Ask Diem
