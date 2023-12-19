@@ -8,7 +8,7 @@ Running MeOH:
   - Manually calculate amount of MeOH needed to reach 100uL total in ICAL (usually only have to do this after midpoint level)
 - Make sure the samples have a weight log *before* analyzing
   - If you can't find the sample in the fridge, you probably need to ask Ethan to get it from the sample storage room and he'll need to prepare it
-  - If the folder says product, analyze as MeOH sample
+  - If the folder says product, analyze as MeOH sample. Start at 50x FIRST (product is sometimes very dirty and running @ 100uL can contaminate the instrument).
   - If the folder says sludge, analyze as 8260 5.0g first and MeOH later *only* if the 5.0g analysis fails
   - Generate a .CSV file for the weight log before submitting the folder so Bill can process it without needing to make a detour
 - All other procedures are the same as 25mL 8260
