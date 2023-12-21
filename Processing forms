@@ -1,0 +1,16 @@
+From ICAL folder:
+GCMSCCL3
+
+From method folder:
+VOF1
+F1P (if dilutions reported)
+VOF3
+VOF5F8
+LABCHRN1
+
+Print:
+* Form 1 for samples and instrument blank(s) - VPRINT [SDG letter].txt
+* .P (if dilutions reported)
+* .LD1 & .SD1
+* F5.txt & F8.txt
+* .CHR
